@@ -18,3 +18,5 @@ pip install numpy matplotlib
 ## 运行
 python pid.py
 会得到图像
+## 结果图
+<img width="692" height="458" alt="image" src="https://github.com/user-attachments/assets/a2e3897a-2ba2-43d0-928b-d54d75b0526d" />
